@@ -1,0 +1,9 @@
+{
+  "name": "vue-hf4",
+  "version": "0.0.1",
+  "author": "Maurizio Amizzoni",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

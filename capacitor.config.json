@@ -1,0 +1,9 @@
+{
+  "appId": "it.hf4.app",
+  "appName": "vue-hf4",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "webDir": "dist-android"
+  }
+}
